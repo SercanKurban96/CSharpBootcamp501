@@ -1,5 +1,5 @@
 #  <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> EĞİTİM KAMPI
-👋 Merhabalar, oluşturmuş olduğum bu repo, Murat Yücedağ hocamızın YouTube üzerinden hazırlamış olduğu C# Eğitim Kampı süresince tamamlamış olduğum projeleri içermektedir. Bu eğitimde 501 modül olan Dapper konusundan itibaren anlatılmaktadır.
+👋 Merhabalar, oluşturmuş olduğum bu repo, Murat Yücedağ hocamızın YouTube üzerinden hazırlamış olduğu C# Eğitim Kampı süresince tamamlamış olduğum projeleri içermektedir. Bu eğitimde 501 modül olan Dapper konusu anlatılmaktadır.
 
 ## 🖥️ C# Eğitim Kampı Ders 22 - C# ile Dapper Kullanımı
 ### 📆 Tarih: 16 Aralık 2024
